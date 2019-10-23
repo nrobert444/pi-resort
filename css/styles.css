@@ -1,0 +1,14 @@
+h1 {
+  font-weight: bold;
+  color: orange;
+}
+
+h2 {
+  font-style: italic;
+  font-family: sans-serif;
+  color: blue;
+}
+
+body {
+  text-decoration: underline;
+}
