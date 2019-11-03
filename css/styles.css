@@ -12,3 +12,7 @@ h2 {
 body {
   text-decoration: underline;
 }
+
+li {
+  font-weight: bold;
+}
